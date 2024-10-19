@@ -1,0 +1,105 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: yellow;
+}
+
+.NAVBAR {
+    background-color: black;
+    width: auto;
+    align-self: center;
+}
+
+.JUDUL {
+    color: aliceblue;
+    text-align: center;
+    align-items: center;
+}
+
+.if {
+    width: auto;
+    text-align: right;
+    background-color: blue;
+}
+
+.HIMATIF {
+    width: auto;
+    background-color: aliceblue;
+}
+
+.Fotohimatif {
+    width: 80px;
+}
+
+main {
+    margin: 1%;
+}
+
+.sa {
+    margin-top: 1%;
+    margin-bottom: 3%;
+    word-spacing: 10%;
+}
+
+.penjelasan {
+    stroke-width: 10%;
+}
+
+.JUDUL0 {
+    margin-top: 2%;
+}
+
+.SOLID {
+    text-align: left;
+    margin-top: 2px;
+    margin-bottom: 0%;
+}
+
+.JUDUL1 {
+    margin-top: 2%;
+}
+
+.AKTIF {
+    text-align: left;
+    margin-top: 2px;
+    margin-bottom: 0%;
+}
+
+.JUDUL2 {
+    margin-top: 2%;
+}
+
+.KREATIF {
+    text-align: left;
+    margin-top: 2px;
+    margin-bottom: 0%;
+}
+
+.JUDUL3 {
+    margin-top: 2%;
+}
+
+.TRANSFORMATIF {
+    text-align: left;
+    margin-top: 2px;
+    margin-bottom: 0%;
+}
+
+.JUDUL4 {
+    margin-top: 2%;
+}
+
+.ISLAMI {
+    text-align: left;
+    margin-top: 2px;
+    margin-bottom: 0%;
+}
+
+.footer {
+    text-align: center;
+    
+}
