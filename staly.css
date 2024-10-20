@@ -101,5 +101,53 @@ main {
 
 .footer {
     text-align: center;
+    align-content: flex-end;
+    align-items: end;
     
+    
+}
+
+.togglesolid {
+    background-color: black;
+    color: aliceblue;
+    font-style: italic;
+    border-style: groove;
+    text-size-adjust: auto;
+
+}
+
+.toggleaktif {
+    background-color: black;
+    color: aliceblue;
+    font-style: italic;
+    border-style: groove;
+    text-size-adjust: auto;
+
+}
+
+.togglekreatif {
+    background-color: black;
+    color: aliceblue;
+    font-style: italic;
+    border-style: groove;
+    text-size-adjust: auto;
+
+}
+
+.toggletransformatif {
+    background-color: black;
+    color: aliceblue;
+    font-style: italic;
+    border-style: groove;
+    text-size-adjust: auto;
+
+}
+
+.toggleislami {
+    background-color: black;
+    color: aliceblue;
+    font-style: italic;
+    border-style: groove;
+    text-size-adjust: auto;
+
 }
