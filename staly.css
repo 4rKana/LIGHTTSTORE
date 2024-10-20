@@ -103,7 +103,7 @@ main {
     text-align: center;
     align-content: flex-end;
     align-items: end;
-    
+    margin-top: 3%;
     
 }
 
@@ -151,3 +151,4 @@ main {
     text-size-adjust: auto;
 
 }
+
