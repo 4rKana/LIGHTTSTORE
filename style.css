@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  background: url('assets/bg-pattern.jpg') no-repeat center center fixed;
+  background-size: cover;
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+  color: #333;
+}
+
+.container {
+  max-width: 400px;
+  margin: auto;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+.profile-img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 3px solid #333;
+  margin-bottom: 15px;
+  object-fit: cover;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 14px;
+  margin-bottom: 20px;
+  color: #555;
+}
+
+.link {
+  display: block;
+  text-decoration: none;
+  color: white;
+  background: #333;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 8px;
+  transition: background 0.3s ease;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.link:hover {
+  background: #555;
+}
+
+footer {
+  margin-top: 20px;
+  font-size: 12px;
+  color: #444;
+}
